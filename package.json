@@ -1,0 +1,23 @@
+{
+  "name": "tugas1_jsfundamental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudhaprakoso272/Tugas1_JSfundamental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudhaprakoso272/Tugas1_JSfundamental/issues"
+  },
+  "homepage": "https://github.com/yudhaprakoso272/Tugas1_JSfundamental#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
